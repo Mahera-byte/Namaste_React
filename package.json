@@ -1,0 +1,26 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "Start of the code under React Project",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahera-byte/Namaste_React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahera-byte/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/Mahera-byte/Namaste_React#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
